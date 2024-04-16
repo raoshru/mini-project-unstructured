@@ -1,0 +1,400 @@
+_id,title,pageCount,publishedDate,status,authors,publishedYear,book_id,ratingcount,ratingval
+1,Unlocking Android,416,2011-01-14 00:00:00-08:00,PUBLISH,"W. Frank Ableson, Charlie Collins, Robi Sen",2011,10644930,80,2.0
+2,"Android in Action, Second Edition",592,2011-01-14 00:00:00-08:00,PUBLISH,"W. Frank Ableson, Robi Sen",2011,10644930,27,2.1
+3,Specification by Example,289,2011-01-14 00:00:00-08:00,PUBLISH,Gojko Adzic,2011,10644930,31,2.2
+4,Flex 3 in Action,576,2011-01-14 00:00:00-08:00,PUBLISH,"Tariq Ahmed with Jon Hirschi, Faisal Abid",2011,10644930,31,2.3
+5,Flex 4 in Action,600,2011-01-14 00:00:00-08:00,PUBLISH,"Tariq Ahmed, Dan Orlando, John C. Bland II, Joel Hooks",2011,10644930,76,2.4
+6,Collective Intelligence in Action,425,2011-01-14 00:00:00-08:00,PUBLISH,Satnam Alag,2011,10644930,178,2.5
+7,Zend Framework in Action,432,2011-01-14 00:00:00-08:00,PUBLISH,"Rob Allen, Nick Lo, Steven Brown",2011,10644930,113,2.6
+8,Flex on Java,265,2011-01-14 00:00:00-08:00,PUBLISH,"Bernerd Allmon, Jeremy Anderson",2011,10644930,105,2.7
+9,Griffon in Action,375,2011-01-14 00:00:00-08:00,PUBLISH,"Andres Almiray, Danno Ferrin, , James Shingler",2011,10644930,92,2.8
+10,OSGi in Depth,325,2011-01-14 00:00:00-08:00,PUBLISH,Alexandre de Castro Alves,2011,10644930,114,2.9
+11,Flexible Rails,592,2011-01-14 00:00:00-08:00,PUBLISH,Peter Armstrong,2011,10644930,181,3.0
+13,Hello! Flex 4,258,2011-01-14 00:00:00-08:00,PUBLISH,Peter Armstrong,2011,10644930,106,3.1
+14,Coffeehouse,316,2011-01-14 00:00:00-08:00,PUBLISH,"Levi Asher, Christian Crumlish",2011,10644930,100,3.2
+15,Team Foundation Server 2008 in Action,344,2011-01-14 00:00:00-08:00,PUBLISH,Jamil Azher,2011,10644930,136,3.3
+16,Brownfield Application Development in .NET,550,2011-01-14 00:00:00-08:00,PUBLISH,"Kyle Baley, Donald Belcham",2011,10644930,191,3.4
+17,MongoDB in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,Kyle Banker,2011,10644930,369,3.5
+18,Distributed Application Development with PowerBuilder 6.0,504,2011-01-14 00:00:00-08:00,PUBLISH,Michael J. Barlotta,2011,10644930,247,3.6
+19,Jaguar Development with PowerBuilder 7,550,2011-01-14 00:00:00-08:00,PUBLISH,Michael Barlotta,2011,10644930,213,3.7
+20,Taming Jaguar,362,2011-01-14 00:00:00-08:00,PUBLISH,"Michael J. Barlotta, Jason R. Weiss",2011,10644930,209,3.8
+21,3D User Interfaces with Java 3D,520,2011-01-14 00:00:00-08:00,PUBLISH,Jon Barrilleaux,2011,10644930,234,3.9
+22,Hibernate in Action,400,2011-01-14 00:00:00-08:00,PUBLISH,"Christian Bauer, Gavin King",2011,10644930,309,4.0
+23,Hibernate in Action (Chinese Edition),400,2011-01-14 00:00:00-08:00,PUBLISH,"Christian Bauer, Gavin King",2011,10644930,135,4.1
+24,Java Persistence with Hibernate,880,2011-01-14 00:00:00-08:00,PUBLISH,"Christian Bauer, Gavin King",2011,10644930,105,4.2
+25,JSTL in Action,480,2011-01-14 00:00:00-08:00,PUBLISH,Shawn Bayern,2011,10644930,119,4.3
+26,iBATIS in Action,384,2011-01-14 00:00:00-08:00,PUBLISH,"Clinton Begin, Brandon Goodin, Larry Meadors",2011,10644930,132,4.4
+27,Designing Hard Software,350,2011-01-14 00:00:00-08:00,PUBLISH,Douglas W. Bennett,2011,10644930,173,4.5
+28,Hibernate Search in Action,488,2011-01-14 00:00:00-08:00,PUBLISH,"Emmanuel Bernard, John Griffin",2011,10644930,85,4.6
+29,jQuery in Action,376,2011-01-14 00:00:00-08:00,PUBLISH,"Bear Bibeault, Yehuda Katz",2011,10644930,46,4.7
+30,"jQuery in Action, Second Edition",488,2011-01-14 00:00:00-08:00,PUBLISH,"Bear Bibeault, Yehuda Katz",2011,10644930,20,4.8
+31,Building Secure and Reliable Network Applications,591,2011-01-14 00:00:00-08:00,PUBLISH,Kenneth P. Birman,2011,10644930,29,4.9
+32,Ruby for Rails,532,2011-01-14 00:00:00-08:00,PUBLISH,David A. Black,2011,10644930,217,5.0
+33,The Well-Grounded Rubyist,520,2011-01-14 00:00:00-08:00,PUBLISH,David A. Black,2011,105578,37,0.0
+35,Website Owner's Manual,296,2011-01-14 00:00:00-08:00,PUBLISH,Paul A. Boag,2011,105578,25,0.1
+36,ASP.NET 4.0 in Practice,504,2011-01-14 00:00:00-08:00,PUBLISH,"Daniele Bochicchio, Stefano Mostarda, , Marco De Sanctis",2011,105578,11,0.2
+37,Hello! Python,350,2011-01-14 00:00:00-08:00,PUBLISH,Anthony Briggs,2011,105578,16,0.30000000000000004
+38,PFC Programmer's Reference Manual,368,2011-01-14 00:00:00-08:00,PUBLISH,Richard Brooks,2011,105578,29,0.4
+39,Graphics File Formats,484,2011-01-14 00:00:00-08:00,PUBLISH,"C. Wayne Brown, Barry J. Shepherd",2011,105578,60,0.5
+40,Visual Object Oriented Programming,280,2011-01-14 00:00:00-08:00,PUBLISH,"Margaret M. Burnett, Adele Goldberg, , Ted G. Lewis",2011,105578,28,0.6000000000000001
+41,iOS in Practice,325,2011-01-14 00:00:00-08:00,PUBLISH,Bear P. Cahill,2011,105578,21,0.7000000000000001
+42,iPhone in Action,472,2011-01-14 00:00:00-08:00,PUBLISH,"Christopher Allen, Shannon Appelcline",2011,105578,28,0.8
+43,Silverlight 2 in Action,400,2011-01-14 00:00:00-08:00,PUBLISH,"Chad A. Campbell, John Stockton",2011,105578,38,0.9
+45,"The Quick Python Book, Second Edition",360,2011-01-14 00:00:00-08:00,PUBLISH,Naomi R. Ceder,2011,105578,95,1.0
+46,Internet and Intranet Applications with PowerBuilder 6,390,2011-01-14 00:00:00-08:00,PUBLISH,Tom Cervenka,2011,105578,33,1.1
+48,Practical Methods for Your Year 2000 Problem,236,2011-01-14 00:00:00-08:00,PUBLISH,Robert Chapman,2011,105578,23,1.2
+51,Mobile Agents,320,2011-01-14 00:00:00-08:00,PUBLISH,"William R. Cockayne and Michael Zyda, editors",2011,105578,43,1.3
+52,Spring Dynamic Modules in Action,450,2011-01-14 00:00:00-08:00,PUBLISH,"Arnaud Cogoluegnes, Thierry Templier, , Andy Piper",2011,105578,54,1.4
+53,SQL Server 2008 Administration in Action,468,2011-01-14 00:00:00-08:00,PUBLISH,Rod Colledge,2011,105578,123,1.5
+54,Android in Practice,500,2011-01-14 00:00:00-08:00,PUBLISH,"Charlie Collins, Michael D. Galpin, , Matthias Kaeppler",2011,105578,72,1.6
+55,Object Oriented Perl,512,2011-01-14 00:00:00-08:00,PUBLISH,Damian Conway,2011,105578,68,1.7000000000000002
+56,GWT in Practice,376,2011-01-14 00:00:00-08:00,PUBLISH,"Robert Cooper, Charles Collins",2011,105578,78,1.8
+59,Ajax in Action,680,2011-01-14 00:00:00-08:00,PUBLISH,"Dave Crane, Eric Pascarello with Darren James",2011,105578,91,1.9
+60,Ajax in Practice,536,2011-01-14 00:00:00-08:00,PUBLISH,"Dave Crane, Jord Sonneveld and Bear Bibeault with Ted Goddard, Chris Gray, Ram Venkataraman, Joe Walker",2011,105578,68,2.1
+61,Prototype and Scriptaculous in Action,544,2011-01-14 00:00:00-08:00,PUBLISH,"Dave Crane, Bear Bibeault with Tom Locke",2011,105578,66,2.2
+63,POJOs in Action,592,2011-01-14 00:00:00-08:00,PUBLISH,Chris Richardson,2011,105578,114,2.3
+64,Data Munging with Perl,304,2011-01-14 00:00:00-08:00,PUBLISH,David Cross,2011,105578,133,2.4
+65,Hello! HTML5 & CSS3,325,2011-01-14 00:00:00-08:00,PUBLISH,Rob Crowther,2011,105578,337,2.5
+66,Seam in Action,624,2011-01-14 00:00:00-08:00,PUBLISH,Dan Allen,2011,105578,207,2.6
+67,Wicket in Action,392,2011-01-14 00:00:00-08:00,PUBLISH,"Martijn Dashorst, Eelco Hillenius",2011,105578,180,2.7
+68,Open Source SOA,448,2011-01-14 00:00:00-08:00,PUBLISH,Jeff Davis,2011,105578,139,2.8
+69,Struts 2 in Action,432,2011-01-14 00:00:00-08:00,PUBLISH,"Donald Brown, Chad Michael Davis, , Scott Stanlick",2011,105578,178,2.9
+70,Essential Guide to Peoplesoft Development and Customization,1101,2011-01-14 00:00:00-08:00,PUBLISH,"Tony DeLia, Galina Landres, Isidor Rivera, Prakash Sankaran",2011,105578,173,2.0
+71,.NET Multithreading,360,2011-01-14 00:00:00-08:00,PUBLISH,Alan Dennis,2011,105578,294,3.0
+72,SCWCD Exam Study Kit Second Edition,560,2011-01-14 00:00:00-08:00,PUBLISH,"Hanumant Deshmukh, Jignesh Malavia, , Matthew Scarpino",2011,105578,145,3.2
+73,Spring Roo in Action,500,2011-01-14 00:00:00-08:00,PUBLISH,"Ken Rimple, Srini Penchikala",2011,105578,148,3.3
+74,SOA Governance in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,Jos Dirksen,2011,105578,205,3.4
+75,RSS and Atom in Action,400,2011-01-14 00:00:00-08:00,PUBLISH,Dave Johnson,2011,105578,358,3.5
+76,"LDAP Programming, Management and Integration",352,2011-01-14 00:00:00-08:00,PUBLISH,Clayton Donley,2011,105578,161,3.1
+77,Mule in Action,432,2011-01-14 00:00:00-08:00,PUBLISH,"David Dossot, John D'Emic",2011,105578,220,3.6
+79,Java Foundation Classes,1088,2011-01-14 00:00:00-08:00,PUBLISH,"Stephen C. Drye, William C. Wake",2011,105578,133,3.7
+117,Managing Components with Modeler,289,2011-01-14 00:00:00-08:00,PUBLISH,Vikram Goyal,2011,105578,106,3.8
+118,Command-line Processing with CLI,289,2011-01-14 00:00:00-08:00,PUBLISH,Vikram Goyal,2011,105578,122,3.9
+119,Understanding and Using Chain,289,2011-01-14 00:00:00-08:00,PUBLISH,Vikram Goyal,2011,105578,165,4.0
+120,Working with the Logging and Discovery Components,289,2011-01-14 00:00:00-08:00,PUBLISH,Vikram Goyal,2011,105578,51,4.1
+121,Uploading files with FileUpload,289,2011-01-14 00:00:00-08:00,PUBLISH,Vikram Goyal,2011,105578,38,4.2
+122,Handling Protocols with the Net Component,289,2011-01-14 00:00:00-08:00,PUBLISH,Vikram Goyal,2011,105578,50,4.5
+123,XML Parsing with Digester,289,2011-01-14 00:00:00-08:00,PUBLISH,Vikram Goyal,2011,105578,31,4.6
+124,JXPath and Betwixt: Working with XML,289,2011-01-14 00:00:00-08:00,PUBLISH,Vikram Goyal,2011,105578,29,4.7
+125,Validating Data with Validator,289,2011-01-14 00:00:00-08:00,PUBLISH,Vikram Goyal,2011,105578,49,4.4
+126,Enhancing Java Core Libraries with Collections,289,2011-01-14 00:00:00-08:00,PUBLISH,Vikram Goyal,2011,105578,21,4.8
+127,Enhancing Java Core Libraries with BeanUtils and Lang,289,2011-01-14 00:00:00-08:00,PUBLISH,Vikram Goyal,2011,105578,17,4.9
+128,Pool and DBCP: Creating and Using Object Pools,289,2011-01-14 00:00:00-08:00,PUBLISH,Vikram Goyal,2011,105578,149,5.0
+129,Python and Tkinter Programming,688,2011-01-14 00:00:00-08:00,PUBLISH,John E. Grayson,2011,10308500,18,0.0
+130,Microsoft.NET for Programmers,386,2011-01-14 00:00:00-08:00,PUBLISH,Fergal Grimes,2011,10308500,4,0.1
+131,Grails in Action,520,2011-01-14 00:00:00-08:00,PUBLISH,"Glen Smith, Peter Ledbrook",2011,105578,43,4.3
+132,"Up to Speed with Swing, Second Edition",560,2011-01-14 00:00:00-08:00,PUBLISH,Steven Gutz,2011,10308500,7,0.2
+133,OSGi in Action,576,2011-01-14 00:00:00-08:00,PUBLISH,"Richard S. Hall, Karl Pauls, Stuart McCulloch, , David Savage",2011,10308500,11,0.30000000000000004
+135,GWT in Action,632,2011-01-14 00:00:00-08:00,PUBLISH,"Robert Hanson, Adam Tacy",2011,10308500,19,0.4
+136,The Quick Python Book,444,2011-01-14 00:00:00-08:00,PUBLISH,"Daryl Harms, Kenneth McDonald",2011,10308500,27,0.5
+137,SharePoint 2010 Site Owner's Manual,300,2011-01-14 00:00:00-08:00,PUBLISH,Yvonne M. Harryman,2011,10308500,15,0.6000000000000001
+139,Java Development with Ant,672,2011-01-14 00:00:00-08:00,PUBLISH,"Erik Hatcher, Steve Loughran",2011,10308500,14,1.4
+140,Lucene in Action,456,2011-01-14 00:00:00-08:00,PUBLISH,"Erik Hatcher, Otis Gospodnetic",2011,10308500,40,1.5
+141,"Lucene in Action, Second Edition",532,2011-01-14 00:00:00-08:00,PUBLISH,"Erik Hatcher, Otis Gospodnetic, , Michael McCandless",2011,10308500,22,1.6
+142,PowerBuilder 6.0 Questions & Answers,446,2011-01-14 00:00:00-08:00,PUBLISH,Tim Hatton,2011,10308500,24,1.7000000000000002
+143,The Awesome Power of PowerJ,378,2011-01-14 00:00:00-08:00,PUBLISH,Tim Hatton,2011,10308500,20,1.8
+144,The Awesome Power of Power++,416,2011-01-14 00:00:00-08:00,PUBLISH,Tim Hatton,2011,10308500,30,1.9
+145,Azure in Action,425,2011-01-14 00:00:00-08:00,PUBLISH,"Chris Hay, Brian H. Prince",2011,10308500,47,2.0
+146,Distributed Agile in Action,325,2011-01-14 00:00:00-08:00,MEAP,"Vikas Hazrati, Balaji D Loganathan",2011,10308500,21,2.1
+147,Metaprogramming in .NET,289,2011-01-14 00:00:00-08:00,PUBLISH,"Kevin Hazzard, Jason Bock",2011,10308500,42,1.0
+148,Portlets and Apache Portals,500,2011-01-14 00:00:00-08:00,PUBLISH,"Stefan Hepper, Peter Fischer, Stephan Hesmer, Richard Jacob, David Sean Taylor",2011,10308500,29,2.2
+149,Code Generation in Action,350,2011-01-14 00:00:00-08:00,PUBLISH,Jack Herrington,2011,10308500,41,2.3
+150,Illustrated Guide to HTTP,400,2011-01-14 00:00:00-08:00,PUBLISH,Paul S. Hethmon,2011,10308500,57,2.4
+152,Agile ALM,289,2011-01-14 00:00:00-08:00,PUBLISH,Michael Hüttermann,2011,10308500,99,2.5
+153,"Java Network Programming, Second Edition",860,2011-01-14 00:00:00-08:00,PUBLISH,"Merlin Hughes, Michael Shoffner, , Derek Hamner",2011,10308500,75,2.6
+154,Struts in Action,672,2011-01-14 00:00:00-08:00,PUBLISH,"Ted N. Husted, Cedric Dumoulin, George Franciscus, David Winterfeldt",2011,10308500,50,2.7
+155,Camel in Action,375,2011-01-14 00:00:00-08:00,PUBLISH,"Claus Ibsen, Jonathan Anstey",2011,10308500,50,2.8
+156,Taming Text,350,2011-01-14 00:00:00-08:00,PUBLISH,"Grant S. Ingersoll, Thomas S. Morton, , Andrew L. Farris",2011,10308500,59,2.9
+158,JBoss in Action,496,2011-01-14 00:00:00-08:00,PUBLISH,"Javid Jamae, Peter Johnson",2011,10308500,79,3.0
+159,Gnuplot in Action,400,2011-01-14 00:00:00-08:00,PUBLISH,Philipp K. Janert,2011,10308500,38,3.1
+160,Extending and Embedding Perl,384,2011-01-14 00:00:00-08:00,PUBLISH,"Tim Jenness, Simon Cozens",2011,10308500,47,3.2
+161,iOS 4 in Action,504,2011-01-14 00:00:00-08:00,PUBLISH,"Jocelyn Harrington, Brandon Trebitowski, Christopher Allen, , Shannon Appelcline",2011,10308500,47,3.3
+162,Elements of Programming with Perl,368,2011-01-14 00:00:00-08:00,PUBLISH,Andrew L. Johnson,2011,10308500,55,3.4
+163,Learn Windows PowerShell in a Month of Lunches,289,2011-01-14 00:00:00-08:00,PUBLISH,Don Jones,2011,10308500,67,3.5
+164,R in Action,375,2011-01-14 00:00:00-08:00,PUBLISH,Robert I. Kabacoff,2011,10308500,42,3.6
+165,Android in Practice,289,2011-01-14 00:00:00-08:00,MEAP,"Matthias Kaeppler, Michael D. Galpin, Charlie Collins",2011,10308500,29,3.7
+167,SOA Security,512,2011-01-14 00:00:00-08:00,PUBLISH,"Ramarao Kanneganti, Prasad A. Chodavarapu",2011,10308500,24,3.8
+168,Rails 3 in Action,425,2011-01-14 00:00:00-08:00,PUBLISH,"Ryan Bigg, Yehuda Katz",2011,10308500,19,3.9
+169,Continuous Integration in .NET,328,2011-01-14 00:00:00-08:00,PUBLISH,"Marcin Kawalerowicz, Craig Berntson",2011,10308500,9,4.1
+170,Technology Paradise Lost,260,2011-01-14 00:00:00-08:00,PUBLISH,Erik Keller,2011,10308500,14,4.0
+172,Kermit 95+,289,2011-01-14 00:00:00-08:00,PUBLISH,Kermit Project at Columbia University,2011,10308500,3,4.2
+173,Laszlo in Action,552,2011-01-14 00:00:00-08:00,PUBLISH,"Norman Klein, Max Carlson with Glenn MacEwen",2011,10308500,12,0.7000000000000001
+174,Groovy in Action,696,2011-01-14 00:00:00-08:00,PUBLISH,"Dierk Koenig with Andrew Glover, Paul King, Guillaume Laforge, Jon Skeet",2011,10308500,4,4.4
+175,"Groovy in Action, Second Edition",700,2011-01-14 00:00:00-08:00,MEAP,"Dierk König, Guillaume Laforge, Paul King, Cédric Champeau, Hamlet D'Arcy, Erik Pragt, , Jon Skeet",2011,10308500,9,4.3
+176,Object Technology Centers of Excellence,200,2011-01-14 00:00:00-08:00,PUBLISH,"Timothy D. Korson, Vijay K. Vaishnavi",2011,10308500,7,0.8
+177,Test Driven,544,2011-01-14 00:00:00-08:00,PUBLISH,Lasse Koskela,2011,10308500,6,0.9
+178,Effective Unit Testing,350,2011-01-14 00:00:00-08:00,PUBLISH,Lasse Koskela,2011,10308500,11,4.5
+179,Making Java Groovy,289,2011-01-14 00:00:00-08:00,PUBLISH,Kenneth A. Kousen,2011,10308500,1,4.6
+180,The Awesome Power of Direct3D/DirectX,840,2011-01-14 00:00:00-08:00,PUBLISH,Peter J. Kovach,2011,10308500,10,1.2
+181,Practical Software Requirements,448,2011-01-14 00:00:00-08:00,PUBLISH,Benjamin L. Kovitz,2011,10308500,8,1.1
+182,NHibernate in Action,400,2011-01-14 00:00:00-08:00,PUBLISH,"Pierre Henri Kuate, Tobin Harris, Christian Bauer, , Gavin King",2011,10308500,1,4.7
+183,Microsoft Reporting Services in Action,656,2011-01-14 00:00:00-08:00,PUBLISH,Teo Lachev,2011,10308500,9,1.3
+184,AspectJ in Action,512,2011-01-14 00:00:00-08:00,PUBLISH,Ramnivas Laddad,2011,10308500,1,4.8
+185,"AspectJ in Action, Second Edition",568,2011-01-14 00:00:00-08:00,PUBLISH,Ramnivas Laddad,2011,10308500,4,4.9
+186,Hadoop in Action,325,2011-01-14 00:00:00-08:00,PUBLISH,Chuck Lam,2011,10308500,35,5.0
+187,SQR in PeopleSoft and Other Applications,600,2011-01-14 00:00:00-08:00,PUBLISH,"Galina, Vlad Landres",2011,10210,20,0.0
+188,"SQR in PeopleSoft and Other Applications, Second Edition",696,2011-01-14 00:00:00-08:00,PUBLISH,"Galina Landres, Vlad Landres",2011,10210,5,0.1
+189,F# in Action,425,2011-01-14 00:00:00-08:00,MEAP,Amanda Laucher,2011,10210,2,0.30000000000000004
+190,Tuscany SCA in Action,472,2011-01-14 00:00:00-08:00,PUBLISH,"Simon Laws, Mark Combellack, Raymond Feng, Haleh Mahbod, Simon Nash",2011,10210,9,0.4
+192,Client/Server Yellow Pages,280,2011-01-14 00:00:00-08:00,PUBLISH,"Compiled, introduced by Ted Lewis",2011,10210,6,0.2
+193,Object Oriented Application Frameworks,352,2011-01-14 00:00:00-08:00,PUBLISH,"Ted Lewis, friends",2011,10210,14,0.5
+194,Tapestry in Action,580,2011-01-14 00:00:00-08:00,PUBLISH,Howard M. Lewis Ship,2011,10210,12,0.6000000000000001
+195,WebWork in Action,400,2011-01-14 00:00:00-08:00,PUBLISH,"Patrick Lightbody, Jason Carreira",2011,10210,5,0.7000000000000001
+196,MacRuby in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,"Brendan G. Lim with Jerry Cheung, Jeremy McAnally",2011,10210,2,0.8
+197,Erlang and OTP in Action,500,2011-01-14 00:00:00-08:00,PUBLISH,"Martin Logan, Eric Merritt, , Richard Carlsson",2011,10210,11,0.9
+198,SharePoint 2007 Developer's Guide to Business Data Catalog,304,2011-01-14 00:00:00-08:00,PUBLISH,"Brett Lonsdale, Nick Swan",2011,10210,18,1.0
+199,Doing IT Right,350,2011-01-14 00:00:00-08:00,PUBLISH,Harold Lorin,2011,10210,9,1.1
+200,Adobe AIR in Action,336,2011-01-14 00:00:00-08:00,PUBLISH,"Joey Lott, Kathryn Rotondo, Sam Ahn, Ashley Atkins",2011,10210,5,1.2
+201,Ant in Action,600,2011-01-14 00:00:00-08:00,PUBLISH,"Steve Loughran, Erik Hatcher",2011,10210,5,1.3
+202,Restlet in Action,450,2011-01-14 00:00:00-08:00,PUBLISH,"Jerome Louvel, Thierry Boileau, , Philippe Mougin",2011,10210,12,1.4
+203,iText in Action,688,2011-01-14 00:00:00-08:00,PUBLISH,Bruno Lowagie,2011,10210,18,1.5
+204,"iText in Action, Second Edition",600,2011-01-14 00:00:00-08:00,PUBLISH,Bruno Lowagie,2011,10210,17,1.6
+205,Power-3D,550,2011-01-14 00:00:00-08:00,PUBLISH,Kyle Lussier,2011,10210,7,1.7000000000000002
+206,SNA and TCP/IP Enterprise Networking,540,2011-01-14 00:00:00-08:00,PUBLISH,"Daniel C. Lynch, James P. Gray, and Edward Rabinovitch, editors",2011,10210,13,1.8
+208,Subversion in Action,356,2011-01-14 00:00:00-08:00,PUBLISH,Jeffrey Machols,2011,10210,19,1.9
+209,Minimal Perl,504,2011-01-14 00:00:00-08:00,PUBLISH,Tim Maher,2011,10210,27,2.0
+210,Distributed Programming with Java,320,2011-01-14 00:00:00-08:00,PUBLISH,Qusay H. Mahmoud,2011,10210,11,2.1
+211,Comprehensive Networking Glossary and Acronym Guide,208,2011-01-14 00:00:00-08:00,PUBLISH,Gary Scott Malkin,2011,10210,14,2.2
+212,JavaServer Faces in Action,744,2011-01-14 00:00:00-08:00,PUBLISH,Kito D. Mann,2011,10210,8,2.3
+213,LINQ in Action,576,2011-01-14 00:00:00-08:00,PUBLISH,"Fabrice Marguerie, Steve Eichert, Jim Wooley",2011,10210,26,2.4
+214,Internet BBSs,400,2011-01-14 00:00:00-08:00,PUBLISH,Richard Scott Mark,2011,10210,45,2.5
+215,Algorithms of the Intelligent Web,368,2011-01-14 00:00:00-08:00,PUBLISH,"Haralambos Marmanis, Dmitry Babenko",2011,10210,34,2.6
+216,JUnit in Action,384,2011-01-14 00:00:00-08:00,PUBLISH,Vincent Massol with Ted Husted,2011,10210,24,2.7
+217,Tika in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,"Chris A. Mattmann, Jukka L. Zitting",2011,10210,27,2.8
+218,Ruby in Practice,360,2011-01-14 00:00:00-08:00,PUBLISH,"Jeremy McAnally, Assaf Arkin",2011,10210,39,2.9
+219,Inside LotusScript,420,2011-01-14 00:00:00-08:00,PUBLISH,Joe McGinn,2011,10210,61,3.0
+220,Maximum MIDI,450,2011-01-14 00:00:00-08:00,PUBLISH,Paul Messick,2011,10210,31,3.1
+221,Planning and Managing ATM Networks,320,2011-01-14 00:00:00-08:00,PUBLISH,"Daniel Minoli, Thomas W. Golway, , Norris P. Smith",2011,10210,30,3.2
+222,Client/Server Applications on ATM Networks,350,2011-01-14 00:00:00-08:00,PUBLISH,"Daniel Minoli, Andrew Schmidt",2011,10210,41,3.3
+223,JavaFX in Action,373,2011-01-14 00:00:00-08:00,PUBLISH,Simon Morris,2011,10210,65,3.4
+224,Entity Framework 4 in Action,576,2011-01-14 00:00:00-08:00,PUBLISH,"Stefano Mostarda, Marco De Sanctis, , Daniele Bochicchio",2011,10210,102,3.5
+225,ASP.NET 2.0 Web Parts in Action,344,2011-01-14 00:00:00-08:00,PUBLISH,Darren Neimke,2011,10210,84,3.6
+226,Sass and Compass in Action,300,2011-01-14 00:00:00-08:00,PUBLISH,"Wynn Netherland, Nathan Weizenbaum, Chris Eppstein, , Brandon Mathis",2011,10210,72,3.7
+227,Core OWL 5.0,500,2011-01-14 00:00:00-08:00,PUBLISH,Ted Neward,2011,10210,75,3.8
+228,Advanced OWL 5.0,570,2011-01-14 00:00:00-08:00,PUBLISH,Ted Neward,2011,10210,76,3.9
+229,Server-Based Java Programming,592,2011-01-14 00:00:00-08:00,PUBLISH,Ted Neward,2011,10210,91,4.1
+230,SQL Server MVP Deep Dives,848,2011-01-14 00:00:00-08:00,PUBLISH,"Contributions from 53 SQL Server MVPs, Edited by Paul Nielsen, Kalen Delaney, Greg Low, Adam Machanic, Paul S. Randal, , Kimberly L. Tripp",2011,10210,141,4.0
+231,SQL Server MVP Deep Dives,848,2011-01-14 00:00:00-08:00,PUBLISH,"Contributions from 53 SQL Server MVPs; Edited by Paul Nielsen, Kalen Delaney, Greg Low, Adam Machanic, Paul S. Randal, , Kimberly L. Tripp",2011,10210,63,4.2
+232,SQL Server MVP Deep Dives,848,2011-01-14 00:00:00-08:00,PUBLISH,"Paul Nielsen, Kalen Delaney, Greg Low, Adam Machanic, Paul S. Randal, , Kimberly L. Tripp",2011,10210,89,4.3
+233,PostGIS in Action,325,2011-01-14 00:00:00-08:00,PUBLISH,"Regina O. Obe, Leo S. Hsu",2011,10210,101,4.4
+235,Programming Mac OS X,384,2011-01-14 00:00:00-08:00,PUBLISH,Kevin O'Malley,2011,10210,111,4.5
+236,The Art of Unit Testing,320,2011-01-14 00:00:00-08:00,PUBLISH,Roy Osherove,2011,10210,61,4.6
+237,Mahout in Action,375,2011-01-14 00:00:00-08:00,PUBLISH,"Sean Owen, Robin Anil, Ted Dunning, , Ellen Friedman",2011,10210,48,4.7
+238,ASP.NET MVC in Action,392,2011-01-14 00:00:00-08:00,PUBLISH,"Jeffrey Palermo, Ben Scheirman, , Jimmy Bogard",2011,10210,27,4.9
+239,ASP.NET MVC 2 in Action,432,2011-01-14 00:00:00-08:00,PUBLISH,"Jeffrey Palermo, Ben Scheirman, Jimmy Bogard, Eric Hexter, , Matthew Hinze",2011,10210,128,5.0
+240,ASP.NET MVC 4 in Action,450,2011-01-14 00:00:00-08:00,PUBLISH,"Jeffrey Palermo, Jimmy Bogard, Eric Hexter, Matthew Hinze, , Jeremy Skinner",2011,10210,16,4.8
+241,EJB 3 in Action,712,2011-01-14 00:00:00-08:00,PUBLISH,"Debu Panda, Reza Rahman, Derek Lane",2011,9778945,32,0.0
+242,"EJB 3 in Action, Second Edition",289,2011-01-14 00:00:00-08:00,PUBLISH,"Debu Panda, Reza Rahman, Ryan Cuprak, , Michael Remijan",2011,9778945,13,0.1
+243,Explorer's Guide to the Semantic Web,304,2011-01-14 00:00:00-08:00,PUBLISH,Thomas B. Passin,2011,9778945,8,0.2
+244,Practical LotusScript,512,2011-01-14 00:00:00-08:00,PUBLISH,Anthony Patton,2011,9778945,6,0.30000000000000004
+245,Domino Development with Java,467,2011-01-14 00:00:00-08:00,PUBLISH,Anthony Patton,2011,9778945,23,0.4
+246,Windows PowerShell in Action,576,2011-01-14 00:00:00-08:00,PUBLISH,Bruce Payette,2011,9778945,38,0.5
+247,"Windows PowerShell in Action, Second Edition",700,2011-01-14 00:00:00-08:00,PUBLISH,Bruce Payette,2011,9778945,19,0.6000000000000001
+248,"Silverlight 4 in Action, Revised Edition",425,2011-01-14 00:00:00-08:00,PUBLISH,Pete Brown,2011,9778945,14,0.7000000000000001
+249,Silverlight 5 in Action,925,2011-01-14 00:00:00-08:00,PUBLISH,Pete Brown,2011,9778945,10,0.8
+250,Hibernate Quickly,456,2011-01-14 00:00:00-08:00,PUBLISH,"Patrick Peak, Nick Heudecker",2011,9778945,22,0.9
+251,Generative Art,289,2011-01-14 00:00:00-08:00,PUBLISH,Matt Pearson,2011,9778945,42,1.0
+252,Windows Phone 7 in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,"Timothy Binkley-Jones, Massimo Perga, , Michael Sync",2011,9778945,16,1.1
+253,Lift in Action,450,2011-01-14 00:00:00-08:00,PUBLISH,Timothy Perrett,2011,9778945,7,1.2
+254,Web Development with Apache and Perl,424,2011-01-14 00:00:00-08:00,PUBLISH,Theo Petersen,2011,9778945,16,1.3
+255,Real-World Functional Programming,560,2011-01-14 00:00:00-08:00,PUBLISH,Tomas Petricek with Jon Skeet,2011,9778945,16,1.4
+256,Machine Learning in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,Peter Harrington,2011,9778945,38,1.5
+257,Dependency Injection,352,2011-01-14 00:00:00-08:00,PUBLISH,Dhanji R. Prasanna,2011,9778945,33,1.6
+258,Understanding Enterprise SOA,280,2011-01-14 00:00:00-08:00,PUBLISH,"Eric Pulier and Hugh Taylor, Foreword by Paul Gaffney",2011,9778945,33,1.7000000000000002
+259,Open-Source ESBs in Action,528,2011-01-14 00:00:00-08:00,PUBLISH,"Tijs Rademakers, Jos Dirksen",2011,9778945,27,1.8
+260,Activiti in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,Tijs Rademakers,2011,9778945,36,1.9
+261,DSLs in Boo: Domain-Specific Languages in .NET,352,2011-01-14 00:00:00-08:00,PUBLISH,Oren Eini writing as Ayende Rahien,2011,9778945,90,2.0
+262,JUnit Recipes,752,2011-01-14 00:00:00-08:00,PUBLISH,J. B. Rainsberger with contributions by Scott Stirling,2011,9778945,40,2.1
+263,wxPython in Action,620,2011-01-14 00:00:00-08:00,PUBLISH,"Noel Rappin, Robin Dunn",2011,9778945,21,2.2
+264,Clojure in Action,475,2011-01-14 00:00:00-08:00,PUBLISH,Amit Rathore,2011,9778945,46,2.3
+265,Scala in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,Nilanjan Raychaudhuri,2011,9778945,65,2.4
+266,Working with Objects,420,2011-01-14 00:00:00-08:00,PUBLISH,Trygve Reenskaug,2011,9778945,142,2.5
+267,PHP in Action,552,2011-01-14 00:00:00-08:00,PUBLISH,"Dagfinn Reiersøl with Marcus Baker, Chris Shiflett",2011,9778945,90,2.6
+269,Secrets of the JavaScript Ninja,300,2011-01-14 00:00:00-08:00,PUBLISH,John Resig,2011,9778945,88,2.7
+270,Microsoft Office Essentials,480,2011-01-14 00:00:00-08:00,PUBLISH,Ronny Richardson,2011,9778945,68,2.8
+271,Swing,289,2011-01-14 00:00:00-08:00,PUBLISH,"Matthew Robinson, Pavel Vorobiev",2011,9778945,99,2.9
+272,Swing Second Edition,912,2011-01-14 00:00:00-08:00,PUBLISH,,2011,9778945,139,3.0
+273,The Awesome Power of Java Beans,500,2011-01-14 00:00:00-08:00,PUBLISH,Lawrence H. Rodrigues,2011,9778945,63,3.1
+274,Personal Videoconferencing,420,2011-01-14 00:00:00-08:00,PUBLISH,Evan Rosen,2011,9778945,62,3.2
+275,The Cloud at Your Service,200,2011-01-14 00:00:00-08:00,PUBLISH,"Jothy Rosenberg, Arthur Mateos",2011,9778945,101,3.3
+276,Implementing Elliptic Curve Cryptography,330,2011-01-14 00:00:00-08:00,PUBLISH,Michael Rosing,2011,9778945,107,3.4
+277,SOA Patterns,250,2011-01-14 00:00:00-08:00,PUBLISH,Arnon Rotem-Gal-Oz,2011,9778945,232,3.5
+278,Hello World!,432,2011-01-14 00:00:00-08:00,PUBLISH,"Warren D. Sande, Carter Sande",2011,9778945,161,3.6
+279,SCBCD Exam Study Kit,488,2011-01-14 00:00:00-08:00,PUBLISH,Paul Sanghera,2011,9778945,98,3.7
+280,Portlets in Action,475,2011-01-14 00:00:00-08:00,PUBLISH,Ashish Sarin,2011,9778945,94,3.8
+281,SWT/JFace in Action,496,2011-01-14 00:00:00-08:00,PUBLISH,"Matthew Scarpino, Stephen Holder, Stanford Ng, , Laurent Mihalkovic",2011,9778945,101,3.9
+282,OpenCL in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,Matthew Scarpino,2011,9778945,123,4.0
+283,Multiprotocol over ATM,341,2011-01-14 00:00:00-08:00,PUBLISH,"Andrew Schmidt, Daniel Minoli",2011,9778945,45,4.1
+284,Dependency Injection in .NET,375,2011-01-14 00:00:00-08:00,PUBLISH,Mark Seemann,2011,9778945,45,4.3
+285,Java 3D Programming,400,2011-01-14 00:00:00-08:00,PUBLISH,Daniel Selman,2011,9778945,44,4.2
+286,Liferay in Action,375,2011-01-14 00:00:00-08:00,PUBLISH,"Richard Sezov, Jr",2011,9778945,34,4.4
+287,JSP Tag Libraries,656,2011-01-14 00:00:00-08:00,PUBLISH,"Gal Shachor, Adam Chace, Magnus Rydin",2011,9778945,52,4.5
+289,Instant Messaging in Java,402,2011-01-14 00:00:00-08:00,PUBLISH,Iain Shigeoka,2011,9778945,22,4.6
+290,Java Applets and Channels Without Programming,372,2011-01-14 00:00:00-08:00,PUBLISH,"Ronny Richardson, Michael Shoffner, Marq Singer, Bruce Murray, , Jack Gambol",2011,9778945,13,4.7
+291,PowerShell in Practice,500,2011-01-14 00:00:00-08:00,PUBLISH,Richard Siddaway,2011,9778945,8,4.8
+292,PowerShell and WMI,289,2011-01-14 00:00:00-08:00,PUBLISH,Richard Siddaway,2011,9778945,1,4.9
+293,Making Sense of Java,180,2011-01-14 00:00:00-08:00,PUBLISH,"Bruce Simpson, John Mitchell, Brian Christeson, Rehan Zaidi, , Jonathan Levine",2011,9778945,69,5.0
+294,C++/CLI in Action,416,2011-01-14 00:00:00-08:00,PUBLISH,Nishant Sivakumar,2011,9661374,14,0.0
+295,C# in Depth,424,2011-01-14 00:00:00-08:00,PUBLISH,Jon Skeet,2011,9661374,8,0.1
+296,"C# in Depth, Second Edition",584,2011-01-14 00:00:00-08:00,PUBLISH,Jon Skeet,2011,9661374,5,0.2
+297,Magical A-Life Avatars,450,2011-01-14 00:00:00-08:00,PUBLISH,Peter Small,2011,9661374,3,0.30000000000000004
+298,Becoming Agile,408,2011-01-14 00:00:00-08:00,PUBLISH,"Greg Smith, Ahmed Sidky",2011,9661374,3,0.4
+299,ActiveMQ in Action,408,2011-01-14 00:00:00-08:00,PUBLISH,"Bruce Snyder, Dejan Bosanac, , Rob Davies",2011,9661374,7,0.5
+300,Implementing PeopleSoft Financials,220,2011-01-14 00:00:00-08:00,PUBLISH,Early Stephens,2011,9661374,4,0.6000000000000001
+302,SQL Server DMVs in Action,352,2011-01-14 00:00:00-08:00,PUBLISH,Ian W. Stirk,2011,9661374,3,0.7000000000000001
+303,Scala in Depth,289,2011-01-14 00:00:00-08:00,PUBLISH,Joshua D. Suereth,2011,9661374,3,0.8
+304,JMX in Action,424,2011-01-14 00:00:00-08:00,PUBLISH,"Benjamin G. Sullins, Mark B. Whipple",2011,9661374,4,0.9
+305,EJB Cookbook,352,2011-01-14 00:00:00-08:00,PUBLISH,"Benjamin G. Sullins, Mark B. Whipple",2011,9661374,12,1.0
+306,"GWT in Action, Second Edition",289,2011-01-14 00:00:00-08:00,PUBLISH,"Adam Tacy, Robert Hanson, Jason Essington, , Anna Tökke",2011,9661374,5,1.1
+307,"JUnit in Action, Second Edition",504,2011-01-14 00:00:00-08:00,PUBLISH,"Petar Tahchiev, Felipe Leme, Vincent Massol, , Gary Gregory",2011,9661374,2,1.2
+308,Bitter Java,368,2011-01-14 00:00:00-08:00,PUBLISH,Bruce A. Tate,2011,9661374,4,1.3
+309,Bitter EJB,440,2011-01-14 00:00:00-08:00,PUBLISH,"Bruce Tate, Mike Clark, Bob Lee, Patrick Linskey",2011,9661374,10,1.4
+310,Spring Batch in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,"Arnaud Cogoluegnes, Thierry Templier, Gary Gregory, Olivier Bazoud",2011,9661374,10,1.5
+312,JDK 1.4 Tutorial,408,2011-01-14 00:00:00-08:00,PUBLISH,Gregory M. Travis,2011,9661374,15,1.6
+313,iPhone and iPad in Action,450,2011-01-14 00:00:00-08:00,PUBLISH,"Brandon Trebitowski, Christopher Allen, , Shannon Appelcline",2011,9661374,7,1.8
+314,SQL Server 2005 Reporting Services in Action,600,2011-01-14 00:00:00-08:00,PUBLISH,Bret Updegraff,2011,9661374,8,1.7000000000000002
+315,Ten Years of UserFriendly.Org,1096,2011-01-14 00:00:00-08:00,PUBLISH,"JD ""Illiad"" Frazer",2011,9661374,14,1.9
+316,Graphics Programming with Perl,328,2011-01-14 00:00:00-08:00,PUBLISH,Martien Verbruggen,2011,9661374,20,2.0
+317,RabbitMQ in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,"Alvaro Videla, Jason J.W. Williams",2011,9661374,18,2.1
+318,XDoclet in Action,624,2011-01-14 00:00:00-08:00,PUBLISH,"Craig Walls, Norman Richards",2011,9661374,13,2.2
+319,Spring in Action,472,2011-01-14 00:00:00-08:00,PUBLISH,"Craig Walls, Ryan Breidenbach",2011,9661374,21,2.3
+320,"Spring in Action, Second Edition",768,2011-01-14 00:00:00-08:00,PUBLISH,Craig Walls with Ryan Breidenbach,2011,9661374,30,2.4
+321,"Spring in Action, Third Edition",424,2011-01-14 00:00:00-08:00,PUBLISH,Craig Walls,2011,9661374,78,2.5
+325,Spring in Practice,600,2011-01-14 00:00:00-08:00,PUBLISH,Willie Wheeler with Joshua White,2011,9661374,64,2.6
+327,Java 2 Micro Edition,504,2011-01-14 00:00:00-08:00,PUBLISH,"James P. White, David A. Hemphill",2011,9661374,66,2.7
+328,SharePoint 2010 Workflows in Action,360,2011-01-14 00:00:00-08:00,PUBLISH,Phil Wicklund,2011,9661374,59,2.8
+329,SharePoint 2010 Web Parts in Action,448,2011-01-14 00:00:00-08:00,PUBLISH,Wictor Wilén,2011,9661374,54,2.9
+330,C++ Concurrency in Action,325,2011-01-14 00:00:00-08:00,PUBLISH,Anthony Williams,2011,9661374,125,3.0
+331,Java Servlets by Example,550,2011-01-14 00:00:00-08:00,PUBLISH,Alan R. Williamson,2011,9661374,75,3.1
+332,XML Programming with VB and ASP,320,2011-01-14 00:00:00-08:00,PUBLISH,"Mark Wilson, Tracey Wilson",2011,9661374,63,3.3
+334,Oracle8i Database Administration,543,2011-01-14 00:00:00-08:00,PUBLISH,Noel Yuhanna,2011,9661374,81,3.2
+335,The Engaging Web,325,2011-01-14 00:00:00-08:00,MEAP,"Gabe Zichermann, Chris Cunningham",2011,9661374,84,3.4
+512,Enterprise OSGi In Action,289,2011-01-14 00:00:00-08:00,PUBLISH,"Holly Cummins, Timothy Ward",2011,9661374,158,3.5
+513,"Ext JS in Action, Second Edition",289,2011-01-14 00:00:00-08:00,PUBLISH,"Jesus Garcia, Grgur Grisogono, , Jacob K. Andresen",2011,9661374,99,3.6
+514,"Android in Action, Third Edition",289,2011-01-14 00:00:00-08:00,PUBLISH,"W. Frank Ableson, Robi Sen, Chris King, C. Enrique Ortiz",2011,9661374,79,3.7
+515,Arduino in Action,300,2011-01-14 00:00:00-08:00,PUBLISH,"Martin Evans, Joshua Noble, , Jordan Hochenbaum",2011,9661374,57,3.9
+516,Node.js in Action,300,2011-01-14 00:00:00-08:00,PUBLISH,"Mike Cantelon, Marc Harter, T.J. Holowaychuk, , Nathan Rajlich",2011,9661374,69,4.0
+517,Third-Party JavaScript ,289,2011-01-14 00:00:00-08:00,PUBLISH,"Ben Vinegar, Anton Kovalyov",2011,9661374,32,4.1
+519,Multimedia Computing,289,2011-01-14 00:00:00-08:00,PUBLISH,Matthew E. Hodges,2011,9661374,27,4.2
+520,Web Development with JavaServer Pages,289,2011-01-14 00:00:00-08:00,PUBLISH,"Duane K. Fields, Mark A. Kolb",2011,9661374,7,4.3
+521,Up to Speed with Swing,289,2011-01-14 00:00:00-08:00,PUBLISH,Steven J. Gutz,2011,9661374,60,3.8
+522,Manager's Guide to Open Source,289,2011-01-14 00:00:00-08:00,PUBLISH,Maria Winslow,2011,9661374,20,4.4
+523,Programming Web Services with Java,289,2011-01-14 00:00:00-08:00,PUBLISH,Ajamu A. Wesley,2011,9661374,27,4.5
+525,TCP/IP Programming for OS/2,289,2011-01-14 00:00:00-08:00,PUBLISH,Steven J. Gutz,2011,9661374,14,4.6
+530,"Implementing SAP R/3, Second Edition",289,2011-01-14 00:00:00-08:00,PUBLISH,,2011,9661374,4,4.8
+531,Implementing SAP R/3,289,2011-01-14 00:00:00-08:00,PUBLISH,,2011,9661374,38,5.0
+532,Using C-Kermit: Communication Software,289,2011-01-14 00:00:00-08:00,PUBLISH,,2011,9661374,7,4.7
+533,SCWCD Exam Study Kit,289,2011-01-14 00:00:00-08:00,PUBLISH,"Hanumant Deshmukh, Jignesh Malavia",2011,9627849,21,0.0
+549,Unit Testing in C++,289,2011-01-14 00:00:00-08:00,PUBLISH,"Bruce Trask, Angel Roman",2011,9627849,10,0.1
+550,Big Data,289,2011-01-14 00:00:00-08:00,MEAP,"Nathan Marz, James Warren",2011,9627849,9,0.2
+551,CoffeeScript in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,Patrick Lee,2011,9627849,6,0.30000000000000004
+559,"SQL Server MVP Deep Dives, Volume 2",750,2011-01-14 00:00:00-08:00,PUBLISH,"Kalen Delaney, Louis Davidson, Greg Low, Brad McGehee, Paul Nielsen, Paul Randal, , Kimberly Tripp",2011,9627849,19,0.4
+560,HTML5 in Action,375,2011-01-14 00:00:00-08:00,PUBLISH,"Rob Crowther, Joe Lennon, Ash Blue, , Greg Wanish",2011,9627849,20,0.5
+562,"Java Persistence with Hibernate, Second Edition",289,2011-01-14 00:00:00-08:00,MEAP,"Christian Bauer, Gavin King, , Gary Gregory",2011,9627849,17,0.6000000000000001
+566,Hadoop in Practice,289,2011-01-14 00:00:00-08:00,PUBLISH,Alex Holmes,2011,9627849,10,0.7000000000000001
+569,HBase in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,"Nicholas Dimiduk, Amandeep Khurana",2011,9627849,17,0.8
+571,Flex Mobile in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,Jonathan Campos,2011,9627849,13,0.9
+577,HTML5 for .NET Developers,289,2011-01-14 00:00:00-08:00,PUBLISH,"Jim Jackson, II, Ian Gilman",2011,9627849,37,1.0
+580,50 Android Hacks,289,2011-01-14 00:00:00-08:00,PUBLISH,Carlos M. Sessa,2011,9627849,21,1.1
+591,PowerShell in Depth,289,2011-01-14 00:00:00-08:00,PUBLISH,"Don Jones, Richard Siddaway, , Jeffery Hicks",2011,9627849,9,1.2
+599,Augmented Reality Revealed,289,2011-01-14 00:00:00-08:00,MEAP,Robert A. Rice Jr.,2011,9627849,11,1.3
+607,Building Well-Structured JavaScript Applications,289,2011-01-14 00:00:00-08:00,MEAP,Julio C. Ody,2011,9627849,25,1.4
+611,Linked Data,289,2011-01-14 00:00:00-08:00,PUBLISH,"David Wood, Marsha Zaidman, Luke Ruth, with Michael Hausenblas",2011,9627849,35,1.6
+620,"Mule in Action, Second Edition",289,2011-01-14 00:00:00-08:00,PUBLISH,"David Dossot, John D'Emic, , Victor Romero",2011,9627849,47,1.5
+624,Single Page Web Applications,289,2011-01-14 00:00:00-08:00,PUBLISH,"Michael S. Mikowski, Josh C. Powell",2011,9627849,26,1.7000000000000002
+628,"The Art of Unit Testing, Second Edition",289,2011-01-14 00:00:00-08:00,PUBLISH,Roy Osherove,2011,9627849,32,1.8
+629,Play for Java,289,2011-01-14 00:00:00-08:00,PUBLISH,"Nicolas Leroux, Sietse de Kaper",2011,9627849,37,1.9
+631,Hello World! Second Edition,289,2011-01-14 00:00:00-08:00,PUBLISH,"Warren Sande, Carter Sande",2011,9627849,76,2.0
+632,Dart in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,Chris Buckett,2011,9627849,55,2.1
+634,Redis in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,Josiah Carlson,2011,9627849,47,2.2
+636,Using the TI-83 Plus/TI-84 Plus,289,2011-01-14 00:00:00-08:00,PUBLISH,Christopher R. Mitchell,2011,9627849,55,2.3
+637,Neo4j in Action,289,2011-01-14 00:00:00-08:00,MEAP,"Jonas Partner, Aleksa Vukotic, , Nicki Watt",2011,9627849,100,2.4
+639,Programming the TI-83 Plus/TI-84 Plus,289,2011-01-14 00:00:00-08:00,PUBLISH,Christopher R. Mitchell,2011,9627849,190,2.5
+640,Functional Programming in Scala,289,2011-01-14 00:00:00-08:00,MEAP,"Paul Chiusano, Rúnar Bjarnason",2011,9627849,145,2.6
+641,Play for Scala,289,2011-01-14 00:00:00-08:00,PUBLISH,"Peter Hilton, Erik Bakker, , Francisco Canedo",2011,9627849,103,2.7
+642,Node.js in Practice,289,2011-01-14 00:00:00-08:00,MEAP,"Alex Young, Marc Harter",2011,9627849,130,2.9
+643,SonarQube in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,"G. Ann Campbell, Patroklos P. Papapetrou",2011,9627849,222,3.0
+644,Windows Store App Development: C# and XAML,289,2011-01-14 00:00:00-08:00,PUBLISH,Peter M. Brown,2011,9627849,99,3.1
+645,Learn Windows IIS in a Month of Lunches,289,2011-01-14 00:00:00-08:00,PUBLISH,Jason C. Helmick,2011,9627849,113,2.8
+646,Mondrian in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,"William Back, Nicholas Goodman, , Julian Hyde",2011,9627849,104,3.2
+648,RabbitMQ in Depth,289,2011-01-14 00:00:00-08:00,MEAP,Gavin M. Roy,2011,9627849,113,3.3
+649,Akka in Action,289,2011-01-14 00:00:00-08:00,MEAP,"Raymond Roestenburg, Rob Bakker, Rob Williams, Steven Haines",2011,9627849,280,3.5
+650,Extending jQuery,289,2011-01-14 00:00:00-08:00,PUBLISH,Keith B. Wood,2011,9627849,150,3.6
+651,OCA Java SE 7 Programmer I Certification Guide,289,2011-01-14 00:00:00-08:00,PUBLISH,Mala Gupta,2011,9627849,103,3.7
+652,Kanban in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,"Marcus Hammarberg, Joakim Sunden",2011,9627849,93,3.8
+653,Solr in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,"Trey Grainger, Timothy Potter",2011,9627849,178,3.4
+655,Making Sense of NoSQL,289,2011-01-14 00:00:00-08:00,PUBLISH,"Daniel G. McCreary, Ann M. Kelly",2011,9627849,82,3.9
+656,Jaguar Development with PowerBuilder 7,289,2011-01-14 00:00:00-08:00,PUBLISH,MIchael Barlotta,2011,9627849,98,4.0
+657,"Grails in Action, Second Edition",289,2011-01-14 00:00:00-08:00,MEAP,"Glen Smith, Peter Ledbrook",2011,9627849,44,4.1
+658,Rails 4 in Action,289,2011-01-14 00:00:00-08:00,MEAP,"Ryan Bigg, Yehuda Katz, and Steve Klabnik, ",2011,9627849,26,4.2
+659,"Learn Windows PowerShell in a Month of Lunches, Second Edition",289,2011-01-14 00:00:00-08:00,PUBLISH,"Don Jones, Jeffery D. Hicks",2011,9627849,30,4.3
+662,AOP in .NET,289,2011-01-14 00:00:00-08:00,PUBLISH,Matthew D. Groves,2011,9627849,22,4.4
+663,Learn PowerShell Toolmaking in a Month of Lunches,289,2011-01-14 00:00:00-08:00,PUBLISH,"Don Jones, Jeffery Hicks",2011,9627849,33,4.5
+664,CMIS and Apache Chemistry in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,"Florian Müller, Jay Brown, Jeff Potts",2011,9627849,16,4.6
+667,Action Guide (aka VB .NET),289,2011-01-14 00:00:00-08:00,PUBLISH,Paul Messick,2011,9627849,11,4.7
+670,Learn Active Directory Management in a Month of Lunches,289,2011-01-14 00:00:00-08:00,PUBLISH,Richard Siddaway,2011,9627849,2,4.8
+671,"Spring in Action, Fourth Edition",289,2011-01-14 00:00:00-08:00,MEAP,Craig Walls,2011,9627849,10,4.9
+672,The Mikado Method,289,2011-01-14 00:00:00-08:00,PUBLISH,"Ola Ellnestam, Daniel Brolund",2011,9627849,80,5.0
+676,The Responsive Web,289,2011-01-14 00:00:00-08:00,MEAP,Matthew Carver,2011,898885,29,0.0
+677,Fast ASP.NET Websites,289,2011-01-14 00:00:00-08:00,PUBLISH,Dean Alan Hume,2011,898885,14,0.1
+678,SBT in Action,289,2011-01-14 00:00:00-08:00,MEAP,"Joshua Suereth, Matthew Farwell",2011,898885,5,0.2
+679,PowerShell Deep Dives,289,2011-01-14 00:00:00-08:00,PUBLISH,"Edited by Jeffery Hicks, Richard Siddaway, Oisin Grehan, , Aleksandar Nikolic",2011,898885,5,0.30000000000000004
+680,Gradle in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,Benjamin Muschko,2011,898885,14,0.4
+681,Scalatra in Action,289,2011-01-14 00:00:00-08:00,MEAP,"Ivan Porto Carrero, Ross A. Baker, Dave Hrycyszyn, Stefan Ollinger, , Jared Armstrong",2011,898885,16,0.5
+683,AngularJS in Action,289,2011-01-14 00:00:00-08:00,MEAP,"Brian Ford, Lukas Ruebbelke",2011,898885,7,0.7000000000000001
+684,Software Development Metrics,289,2011-01-14 00:00:00-08:00,MEAP,David Nicolette,2011,898885,20,0.6000000000000001
+685,F# Deep Dives,289,2011-01-14 00:00:00-08:00,MEAP,"Tomas Petricek, Phillip Trelford",2011,898885,12,0.8
+686,"C# in Depth, Third Edition",289,2011-01-14 00:00:00-08:00,PUBLISH,Jon Skeet,2011,898885,6,0.9
+688,"PostGIS in Action, Second Edition",289,2011-01-14 00:00:00-08:00,MEAP,"Regina Obe, Leo Hsu",2011,898885,32,1.0
+689,"R in Action, Second Edition",289,2011-01-14 00:00:00-08:00,MEAP,Robert Kabacoff,2011,898885,13,1.1
+691,"The Joy of Clojure, Second Edition",289,2011-01-14 00:00:00-08:00,PUBLISH,"Michael Fogus, Chris Houser",2011,898885,8,1.2
+692,iOS 7 in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,"Brendan G. Lim, Martin Conte Mac Donell",2011,898885,4,1.3
+693,Hello App Inventor!,289,2011-01-14 00:00:00-08:00,MEAP,"Paula Beer, Carl Simmons",2011,898885,15,1.4
+696,Ember.js in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,Joachim Haagen Skeie,2011,898885,26,1.5
+697,Netty in Action,289,2011-01-14 00:00:00-08:00,MEAP,"Norman Maurer, Courtney Robinson",2011,898885,27,1.6
+699,RavenDB in Action,289,2011-01-14 00:00:00-08:00,MEAP,Itamar Syn-Hershko,2011,898885,23,1.7000000000000002
+700,OCP Java SE 7 Programmer II Certification Guide,289,2011-01-14 00:00:00-08:00,MEAP,Mala Gupta,2011,898885,25,1.8
+702,Backbone.js in Action,289,2011-01-14 00:00:00-08:00,MEAP,"Samuel M. Breed, Cole Krumbholz, , Phillip Whisenhunt",2011,898885,29,1.9
+703,"Clojure in Action, Second Edition",289,2011-01-14 00:00:00-08:00,MEAP,Amit Rathore,2011,898885,68,2.0
+706,Practical Data Science with R,289,2011-01-14 00:00:00-08:00,PUBLISH,"Nina Zumel, John Mount",2011,898885,46,2.1
+707,Secrets of the JavaScript Ninja pBook upgrade,289,2011-01-14 00:00:00-08:00,PUBLISH,,2011,898885,29,2.2
+711,ArcGIS Web Development,289,2011-01-14 00:00:00-08:00,MEAP,Rene Rubalcava,2011,898885,56,2.3
+712,Elasticsearch in Action,289,2011-01-14 00:00:00-08:00,MEAP,"Radu Gheorghe, Matthew Lee Hinman",2011,898885,65,2.4
+716,Learn SCCM 2012 in a Month of Lunches,289,2011-01-14 00:00:00-08:00,MEAP,James Bannan,2011,898885,144,2.5
+717,Programming for Musicians and Digital Artists,289,2011-01-14 00:00:00-08:00,MEAP,"Ajay Kapur, Perry Cook, Spencer Salazar, , Ge Wang",2011,898885,113,2.6
+719,BDD in Action,289,2011-01-14 00:00:00-08:00,MEAP,John F. Smart,2011,898885,102,2.7
+723,Windows Phone 8 in Action,289,2011-01-14 00:00:00-08:00,PUBLISH,"Timothy Binkley-Jones, Massimo Perga, Michael Sync, Adam Benoit",2011,898885,101,2.8
+724,Titanium Alloy in Action,289,2011-01-14 00:00:00-08:00,MEAP,Ricardo Alcocer,2011,898885,128,2.9
+727,Giraph in Action,289,2011-01-14 00:00:00-08:00,MEAP,"Claudio Martella, Roman Shaposhnik, , Dionysios Logothetis",2011,898885,182,3.0
+728,"The Well-Grounded Rubyist, Second Edition",289,2011-01-14 00:00:00-08:00,PUBLISH,David A. Black,2011,898885,113,3.1
+729,Go in Action,289,2011-01-14 00:00:00-08:00,MEAP,"Brian Ketelsen, Erik St. Martin, , William Kennedy",2011,898885,105,3.2
+731,The Programmer's Guide to Apache Thrift ,289,2011-01-14 00:00:00-08:00,MEAP,Randy Abernethy,2011,898885,148,3.3
+732,Grokking Functional Programming,289,2011-01-14 00:00:00-08:00,MEAP,Aslam Khan,2011,898885,155,3.4
+733,CORS in Action,289,2011-01-14 00:00:00-08:00,MEAP,Monsur Hossain,2011,898885,263,3.5
+736,Reactive Design Patterns,289,2011-01-14 00:00:00-08:00,MEAP,"Roland Kuhn, Jamie Allen",2011,898885,146,3.6
+740,Storm Applied,289,2011-01-14 00:00:00-08:00,MEAP,"Sean Allen, Peter Pathirana, , Matthew Jankowski",2011,898885,109,3.7
+743,Real-World Machine Learning,289,2011-01-14 00:00:00-08:00,MEAP,"Henrik Brink, Joseph Richards",2011,898885,90,3.8
+744,jQuery UI in Action,289,2011-01-14 00:00:00-08:00,MEAP,Theodore J. (T.J.) VanToll III,2011,898885,85,3.9
+746,Web Components in Action,289,2011-01-14 00:00:00-08:00,MEAP,Chris Buckett,2011,898885,44,4.1
+748,JavaScript Application Design,289,2011-01-14 00:00:00-08:00,MEAP,Nicolas G. Bevacqua,2011,898885,111,4.0
+749,Git in Practice,289,2011-01-14 00:00:00-08:00,MEAP,Mike McQuaid,2011,898885,44,4.2
+750,Impala in Action,289,2011-01-14 00:00:00-08:00,MEAP,"Richard L. Saltzer, Istvan Szegedi",2011,898885,31,4.3
+751,Java 8 in Action,289,2011-01-14 00:00:00-08:00,MEAP,"Raoul-Gabriel Urma, Mario Fusco, , Alan Mycroft",2011,898885,39,4.5
+753,Elixir in Action,289,2011-01-14 00:00:00-08:00,MEAP,Saša Juric´,2011,898885,16,4.6
+755,"MongoDB in Action, Second Edition",289,2011-01-14 00:00:00-08:00,MEAP,"Kyle Banker, Peter Bakkum, Tim Hawkins, Shaun Verch, , Douglas Garrett",2011,898885,11,4.7
+757,"Getting MEAN with Mongo, Express, Angular, and Node",289,2011-01-14 00:00:00-08:00,MEAP,Simon Holmes,2011,898885,4,4.8
+761,"jQuery in Action, Third Edition",289,2011-01-14 00:00:00-08:00,MEAP,"Bear Bibeault, Yehuda Katz, , Aurelio De Rosa",2011,898885,24,4.4
+764,D3.js in Action,289,2011-01-14 00:00:00-08:00,MEAP,Elijah Meeks,2011,898885,10,4.9
+765,Learn SQL Server Administration in a Month of Lunches,289,2011-01-14 00:00:00-08:00,PUBLISH,Don Jones,2011,898885,67,5.0
+766,Geoprocessing with Python,289,2011-01-14 00:00:00-08:00,MEAP,Chris Garrard,2011,8697395,167,0.0
+767,Barcodes with iOS,289,2011-01-14 00:00:00-08:00,MEAP,Oliver Drobnik,2011,8697395,104,0.1
+771,Chef in Action,289,2011-01-14 00:00:00-08:00,MEAP,Dimitri Aivaliotis,2011,8697395,98,0.2
+772,"Hadoop in Practice, Second Edition",289,2011-01-14 00:00:00-08:00,MEAP,Alex Holmes,2011,8697395,142,0.30000000000000004
+774,Oculus Rift in Action,289,2011-01-14 00:00:00-08:00,MEAP,"Bradley Austin Davis, Karen Bryla, , Alex Benton",2011,8697395,156,0.4
+776,OpenStack in Action,289,2011-01-14 00:00:00-08:00,MEAP,Cody Bumgardner,2011,8697395,322,0.5
+777,"PowerShell in Depth, Second Edition",289,2011-01-14 00:00:00-08:00,MEAP,"Don Jones, Jeffery Hicks, , Richard Siddaway",2011,8697395,223,0.6000000000000001
+785,Practical Probabilistic Programming,289,2011-01-14 00:00:00-08:00,MEAP,Avi Pfeffer,2011,8697395,182,0.7000000000000001
+786,Unity in Action,289,2011-01-14 00:00:00-08:00,MEAP,Joseph Hocking,2011,8697395,203,0.8
+794,Express.js in Action,289,2011-01-14 00:00:00-08:00,MEAP,Evan M. Hahn,2011,8697395,221,0.9
+795,Learn Git in a Month of Lunches,289,2011-01-14 00:00:00-08:00,MEAP,Rick Umali,2011,8697395,480,1.0
+796,Understanding SPAs,289,2011-01-14 00:00:00-08:00,MEAP,"Emmit A. Scott, Jr.",2011,8697395,240,1.1
